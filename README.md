@@ -36,12 +36,13 @@ Copy code
 
 ## 📁 Project Structure
 
+```
 docker-ml-backend-stack/
 ├── api/ # FastAPI service
 ├── notebooks/ # Jupyter notebooks
 ├── init.sql # DB initialization
 ├── docker-compose.yml # System orchestration
-
+```
 
 ---
 
