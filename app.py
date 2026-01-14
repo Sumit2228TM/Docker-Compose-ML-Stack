@@ -61,4 +61,5 @@ def get_history():
             } for r in results
         ]}
     except Exception as e:
+
         return {"error": str(e)}
