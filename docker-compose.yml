@@ -41,4 +41,5 @@ services:
     command: start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''
 
 volumes:
+
   postgres_data:
