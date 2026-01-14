@@ -4,7 +4,7 @@ A real-world, production-style **Docker Compose ML backend** using:
 
 - FastAPI (API service)
 - PostgreSQL (persistent database)
-- Jupyter Notebook (experimentation & analysis)
+- Jupyter Notebook (experimentation & analysis) 
 
 Built **locally first** to understand multi-container orchestration before cloud deployment.
 
